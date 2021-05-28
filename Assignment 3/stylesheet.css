@@ -1,0 +1,26 @@
+h1{
+    color:bisque;
+    text-align: center;
+    font-size:50px;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    font-size: 20px;
+    background-color:black;
+}
+.home{
+    color:lightsalmon;
+    font: bolder;
+    text-align: center;
+}
+.login{
+    color:lightsalmon;
+    text-align: center;
+}
+.signup{
+    color: lightsalmon;
+    text-align: center;
+}
+button{
+    background-color:peachpuff;
+}

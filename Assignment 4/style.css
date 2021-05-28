@@ -1,0 +1,47 @@
+.navigation-bar{
+    size: 300px;
+    color: rgb(166, 255, 0);
+    background-color:black;
+    border: 5px solid chocolate;
+    text-shadow: 200px;  
+    font-size: 30px;  
+}
+a:hover{
+    color:rebeccapurple;
+    text-decoration-line: underline;
+    background-color: darkgoldenrod;
+}
+a:visited{
+    color: darkgray;
+    background-color: deeppink;
+}
+.images{
+   border:2px solid black;
+   padding: 2px;
+   text-align: center;
+   width: 400px;
+   margin-left: 20px;
+   margin-top: 20px;
+   background:bisque;
+}
+.images:hover{
+    background: radial-gradient(darkslategrey,cornflowerblue);
+    color: white;
+}
+body{
+    background: linear-gradient(grey,cadetblue);
+}
+.row1{
+    display: flex;
+}
+.row2{
+    display: flex;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+button{
+    background-color: black;
+    color: cornsilk;
+}
